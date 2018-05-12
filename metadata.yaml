@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Théophile_Gautier
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44160#-maux-et-cam-es
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2013-11-11'
 gutenberg_type: Text
